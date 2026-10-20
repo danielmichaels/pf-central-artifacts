@@ -8,8 +8,8 @@ published here by the pf-central CI pipeline.
 Each release carries:
 
 - `pf-central-server-linux-amd64` — central server binary
-- `nats-agent-freebsd-amd64` — pfSense agent binary
-- `pfSense-pkg-nats-agent.pkg` — pfSense package
+- `pfcentral-agent-freebsd-amd64` — pfSense agent binary
+- `pfSense-pkg-pfcentral-agent.pkg` — pfSense package
 - `install.sh` — pfSense installer
 - `SHA256SUMS`
 
