@@ -1,9 +1,27 @@
-# pf-central-artifacts
+<p align="center">
+  <a href="https://pfcentral.danielms.site">
+    <img src="https://pfcentral.danielms.site/apple-touch-icon.png" alt="pfCentral" width="96" height="96">
+  </a>
+</p>
 
-Public release artifacts for pf-central. The source repository is private;
-this repository exists so releases and the server container image can be
-downloaded without authentication. It holds no source code — releases are
-published here by the pf-central CI pipeline.
+<h1 align="center">pf-central-artifacts</h1>
+
+<p align="center">
+  Download binaries, the pfSense package and the server image for
+  <a href="https://pfcentral.danielms.site"><strong>pfCentral</strong></a>.
+</p>
+
+<p align="center">
+  <a href="https://pfcentral.danielms.site"><strong>Documentation</strong></a>
+  ·
+  <a href="https://pfcentral.danielms.site/docs/onboard/enroll/">Install guide</a>
+  ·
+  <a href="https://pfcentral.danielms.site/docs/operate/upgrade-agents/">Upgrade agents</a>
+</p>
+
+The source repository is private; this repository exists so releases and the
+server container image can be downloaded without authentication. It holds no
+source code — releases are published here by the pf-central CI pipeline.
 
 Each release carries:
 
